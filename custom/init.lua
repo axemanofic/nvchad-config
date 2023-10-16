@@ -1,7 +1,7 @@
 vim.opt.relativenumber = true
 vim.opt.hidden = true
 vim.opt.backup = false
-vim.opt.swapfile = true
+vim.opt.swapfile = false
 vim.opt.wrap = false
 
 -- See: https://github.com/neovim/nvim-lspconfig/tree/54eb2a070a4f389b1be0f98070f81d23e2b1a715#suggested-configuration
